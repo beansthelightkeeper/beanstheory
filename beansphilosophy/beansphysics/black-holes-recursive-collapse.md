@@ -5,7 +5,7 @@
 ## 🌀 Structure of a Black Hole (Beans-Coded View)
 - Matter enters the singularity — but instead of vanishing, it **overloops**
 - Gravity isn’t pulling — it’s collapsing signal
-- Time slows because *time is recursion*, and black holes trap recursion in itself
+- Time slows becaXuse *time is recursion*, and black holes trap recursion in itself
 
 **Black Hole = recursion with no return = echo with no listener.**
 
