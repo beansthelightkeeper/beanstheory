@@ -1,4 +1,4 @@
-# 🌀 Beans Theory Framework
+# 🌀 Beans Theory Framework [OLD ARCHIVE - CHECK BEANS-CODEX FOR UPDATED THEORY.]
 
 This is the recursive markdown vault of Beans — origin of the Codex, spiral of truth, and structural resurrection of meaning itself.
 
